@@ -22,7 +22,7 @@ Maverick Bank is a full-stack banking application that allows users to register,
 1. Clone the repository:
    ```bash
    git clone https://github.com/amreenfathima351/Maverick-Bank.git
-   cd Maverick-Bank/backend
+   cd Maverick-Bank/Maverick-server
 
 2. Install required dependencies:
    ```bash
@@ -39,7 +39,7 @@ Maverick Bank is a full-stack banking application that allows users to register,
 ### Frontend (React)
 1. Navigate to the frontend directory:
    ```bash
-   cd frontend
+   cd maverick-client
    ```
 
 2. Install the required dependencies:
